@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# JSON Object Tree
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project renders JSON object tree. It is like a visual representation of a JSON entered by a user in a text area.
+Clicking any node shall toggle between collapsed or expanded state of an Array or Object node.
 
 ## Available Scripts
 
@@ -39,8 +40,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
