@@ -3,6 +3,8 @@
 This project renders JSON object tree. It is like a visual representation of a JSON entered by a user in a text area.
 Clicking any node shall toggle between collapsed or expanded state of an Array or Object node.
 
+# The app is deployed at [https://json-object-tree-view.vercel.app/](https://json-object-tree-view.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
